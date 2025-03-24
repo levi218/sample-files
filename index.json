@@ -1,0 +1,94 @@
+{
+    "fileExtensions": [
+        {
+            "extension": ".txt",
+            "name": "Text File",
+            "variants": [
+                {
+                    "name": "Readme File",
+                    "fileName": "README.txt"
+                },
+                {
+                    "name": "Notes File",
+                    "fileName": "notes.txt"
+                },
+                {
+                    "name": "Example File",
+                    "fileName": "example.txt"
+                }
+            ]
+        },
+        {
+            "extension": ".json",
+            "name": "JSON File",
+            "variants": [
+                {
+                    "name": "Configuration File",
+                    "fileName": "config.json"
+                },
+                {
+                    "name": "Data File",
+                    "fileName": "data.json"
+                },
+                {
+                    "name": "Sample File",
+                    "fileName": "sample.json"
+                }
+            ]
+        },
+        {
+            "extension": ".jpg",
+            "name": "JPEG Image",
+            "variants": [
+                {
+                    "name": "Photo",
+                    "fileName": "photo.jpg"
+                },
+                {
+                    "name": "Image",
+                    "fileName": "image.jpg"
+                },
+                {
+                    "name": "Picture",
+                    "fileName": "picture.jpg"
+                }
+            ]
+        },
+        {
+            "extension": ".html",
+            "name": "HTML File",
+            "variants": [
+                {
+                    "name": "Index Page",
+                    "fileName": "index.html"
+                },
+                {
+                    "name": "About Page",
+                    "fileName": "about.html"
+                },
+                {
+                    "name": "Contact Page",
+                    "fileName": "contact.html"
+                }
+            ]
+        },
+        {
+            "extension": ".csv",
+            "name": "CSV File",
+            "variants": [
+                {
+                    "name": "Data File",
+                    "fileName": "data.csv"
+                },
+                {
+                    "name": "Report File",
+                    "fileName": "report.csv"
+                },
+                {
+                    "name": "Export File",
+                    "fileName": "export.csv"
+                }
+            ]
+        }
+    ]
+}
